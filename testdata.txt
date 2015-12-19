@@ -1,0 +1,16 @@
+
+http://localhost:3000/addtrack
+{"tracks":[{  "uid": "123",  "lattitude": "1.9093405",  "longitude": "2.9093405",  "created_at": "9093405","updated_at": "9093405"},{  "uid": "1238",  "lattitude": "1.9093405",  "longitude": "2.9093405",  "created_at": "9093405","updated_at": "9093405"}],"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1aWQiOiI1NjZkOWNjNzU2ZTEwNWI4MTZkMjI2ZmEiLCJpYXQiOjE0NTAwMjgwMDV9.gWCoIy3_g3INyvmHYAoJR6tmkNN7Ik4WWeHQ6cuediM5MnN4Grf7ganWyA3VHQr7FmjDtLxKArvQ1gj9kI6WdiGtMVjgLA7ILnPX8CUpv45PVcWulTR1ddlZ-N3qEg-OyRAMX0a6oIa7YNounD8CvDUN9MfLPK7E-TUAa9KH0220U724ZQu4UZjW02Ozm6cKJzCrWW7io5M_O6hmoLby_5O2oz1mcxssyPdxvSV2wsG3D_ZOZyAhvB5zIFzYLcw-k48EBrl4h9GbhjUDy5M_8bm_U2nMYQkuQkxlxAXJvnVHJOzqfYN1npJBGgcRAFaQlCIpVRMyVnHU71N9HCyg1A"}
+
+
+http://localhost:3000/users
+{"name":"apk3","username":"451","password":"56787"}
+
+http://localhost:3000/users/login
+{"username":"453","password":"5678"}
+
+
+
+ URL:        http://mygistracker-gistracker.rhcloud.com/
+  SSH to:     5675115f2d52718a1f000006@mygistracker-gistracker.rhcloud.com
+  Git remote: ssh://5675115f2d52718a1f000006@mygistracker-gistracker.rhcloud.com/~/git/mygistracker.git/
